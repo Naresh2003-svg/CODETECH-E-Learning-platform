@@ -18,9 +18,4 @@ To begin exploring the platform:
 ## Contributions
 We welcome contributions! Feel free to submit pull requests, raise issues, or suggest improvements to enhance the platform's learning experience.
 
-## License
-This project is licensed under [Insert license type].
 
----
-
-Does this align with your vision for the project? Let me know if you’d like any refinements!
